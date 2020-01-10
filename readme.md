@@ -39,3 +39,5 @@ curl -v --silent -qgk <REDACTED>/graph?runGraph=‘{apiAccount apiAccountBooking
 - apiAccountBookings()
 - apiAccount()
 ### More Docs coming soon!
+```
+![Data Graph](https://github.com/saladql/sailo-graphql/blob/master/1578615715.png)
